@@ -2,76 +2,10 @@ Ti=PolyForm Perimeter License 1.0.0
 
 Note=<https://polyformproject.org/licenses/perimeter/1.0.0> 
 
-1.Ti=Acceptance 
+sec=<ol><li>{Accept.Sec}</li><li>{License.Copyright.LimitDistribute-LimitNewWork.Sec}</li><li>{License.Distribute.Sec}</li><li>{License.Distribute.Notice.Sec}</li><li>{License.NewWork.Sec}</li><li>{License.Patent.Sec}</li><li>{Purpose.Noncompete.Software.Sec}</li><li>{Compete.Def.Perimeter.Sec}</li><li>{License.FairUse.Sec}</li><li>{License.ExcludedRights.Sec}</li><li>{License.Termination.ForPatentClaim.Sec}</li><li>{License.Termination.ForViolation-WithCurePeriod.Sec}</li><li>{LimitLiability.Sec}</li><li>{Def.Sec}</li></ol>
 
-1.sec=In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses. 
+=[G/Polyform-Licenses/Sec/CommonLibrary.md]
 
-2.Ti=Copyright License 
+Def.sec={Def.BaseAndProduct.sec}
 
-2.sec=The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license). 
-
-3.Ti=Distribution License 
-
-3.sec=The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license). 
-
-4.Ti=Notices 
-
-4.0.sec=You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example: 
-
-4.1.sec=Required Notice: Copyright Yoyodyne, Inc. (http://example.com) 
-
-4.=[G/Z/ol/s1]
-
-5.Ti=Changes and New Works License 
-
-5.sec=The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose. 
-
-6.Ti=Patent License 
-
-6.sec=The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software. 
-
-7.Ti=Noncompete 
-
-7.sec=Any purpose is a permitted purpose, except for providing to others any product that competes with the software. 
-
-8.Ti=Competition 
-
-8.sec=If you use this software to market a product as a substitute for the functionality or value of the software, it competes with the software. A product may compete regardless how it is designed or deployed. For example, a product may compete even if it provides its functionality via any kind of interface (including services, libraries or plug-ins), even if it is ported to a different platforms or programming languages, and even if it is provided free of charge. 
-
-9.Ti=Fair Use 
-
-9.sec=You may have "fair use" rights for the software under the law. These terms do not limit them. 
-
-10.Ti=No Other Rights 
-
-10.sec=These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses. 
-
-11.Ti=Patent Defense 
-
-11.sec=If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company. 
-
-12.Ti=Violations 
-
-12.sec=The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately. 
-
-13.Ti=No Liability 
-
-13.sec=<b><i>As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.</i></b> 
-
-14.Ti=Definitions 
-
-14.1.sec=The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms. 
-
-14.2.sec=A **product** can be a good or service, or a combination of them. 
-
-14.3.sec=**You** refers to the individual or entity agreeing to these terms. 
-
-14.4.sec=**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect. 
-
-14.5.sec=**Your licenses** are all the licenses granted to you for the software under these terms. 
-
-14.6.sec=**Use** means anything you do with the software requiring one of your licenses. 
-
-14.=[G/Z/ol/s6] 
-
-=[G/Z/ol/14]
+Note=The definition of Competition (Compete.Def.Perimeter) is very differently constructed than for some of the other licenses, though the substance substantially overlaps.
