@@ -2,6 +2,14 @@ Ti=Common Library of PolyForm Project license agreements
 
 Note=<https://polyformproject.org/licenses/>
 
+Note=A few default parameters
+
+FreeTrial.Period.days=32 consecutive calendar days
+
+Notice.Cure.Period.days=32 consecutive calendar days
+
+Note=The library of sections used in the various license forms.
+
 Accept.=[G/Polyform-Licenses/Sec/Accept/0.md]
 
 License.Copyright.NoDistribute-LimitNewWork.=[G/Polyform-Licenses/Sec/License/Copyright/NoDistribute-LimitNewWork/0.md]
@@ -87,7 +95,12 @@ _Your_License=<a href='#Def.Your_Licenses.target' class='definedterm'>Your Licen
 
 _Your_Licenses=<a href='#Def.Your_Licenses.target' class='definedterm'>Your Licenses</a>
 
-_Your=<a href='#Def.Your.target' class='definedterm'>Your</a>
+_Your=<a href='#Def.You.target' class='definedterm'>Your</a>
+
+
+License.NewWork.Xref=<a href="#License.NewWork.Sec">Changes and New Works License</a>
+
+License.Distribute.Xref=<a href="#License.Distribute.Sec">Distribution License</a>
 
 
 
@@ -108,3 +121,49 @@ Def.You.target={_You}
 Def.Your_Company.target={_Your_Company}
 
 Def.Your_Licenses.target={_Your_Licenses}
+
+Note=Some outlines that organize the sections by subject matter.
+
+
+License.NewWork.Sec}</li><li>{
+License.Patent.Sec}</li><li>{
+License.FairUse.
+License.FreeTrial.
+License.Distribute.
+License.Distribute.Notice.
+License.InternalBusinessUse.
+License.ExcludedRights.
+License.Termination.ForPatentClaim.
+License.Termination.ForViolation.
+License.Termination.ForViolation-WithCurePeriod.
+LimitLiability.
+Purpose.Noncommercial.
+Purpose.Personal.
+Purpose.NoncommercialOrganization.=
+Purpose.Noncompete.Software.
+Purpose.Noncompete.SoftwareOrProduct.
+Compete.Def.
+Compete.Def.Perimeter.
+Compete.NewProduct.
+Compete.DiscontinuedProduct.
+Compete.SaleOfBusiness.
+
+
+License.Secs=<b>License.</b><ol><li>{License.Copyright.Secs}</li><li>{License.NewWork.Sec}</li><li>{License.Patent.Sec}</li><li>{License.FairUse.Sec}</li><li>{License.FreeTrial.Sec}</li><li>{License.Distribute.Sec}</li><li>{License.InternalBusinessUse.Sec}</li><li>{License.ExcludedRights.Sec}</li><li>{License.Termination.Secs}</li></ol>
+
+License.Copyright.Secs=<b>License.Copyright.</b><ol><li>{License.Copyright.NoDistribute-LimitNewWork.Sec}</li><li>{License.Copyright.LimitDistribute-LimitNewWork.Sec}</li></ol>
+
+License.Termination.Secs=<b>License.Termination.</b><ol><li>{License.Termination.ForPatentClaim.Sec}</li><li>License.Termination.ForViolation.Sec}</li><li>License.Termination.ForViolation-WithCurePeriod.Sec}</li></ol>
+
+Purpose.Secs=<b>Purpose.</b><ol><li>{Purpose.Noncommercial.Sec}</li><li>{Purpose.Personal.Sec}</li><li>{Purpose.NoncommercialOrganization.Sec}</li><li>{Purpose.Noncompete.Software.Sec}</li><li>{Purpose.Noncompete.SoftwareOrProduct.Sec}</li></ol>
+
+
+Compete.Secs=<b>Compete.</b><ol><li>{Compete.Def.Secs}</li><li>{Compete.NewProduct.Sec}</li><li>{Compete.DiscontinuedProduct.Sec}</li><li>{Compete.SaleOfBusiness.Sec}</li></ol>
+
+Compete.Def.Secs=<b>Compete.Def.</b><ol><li>{Compete.Def.Sec}</li><li>{Compete.Def.Perimeter.Sec}</li></ol>
+
+Def.Secs=<b>Def.</b><ol><li><b>Def.Base.</b>{Def.Base.sec}</li><li><b>Def.BaseAndProduct.</b>{Def.BaseAndProduct.sec}</li></ol>
+
+
+Model.Root=<b>Subject-Oriented Organization of Sections</b><ol><li>{Accept.Sec}</li><li>{License.Secs}</li><li>{LimitLiability.Sec}</li><li>{Purpose.Secs}</li><li>{Compete.Secs}</li><li>{Def.Secs}</li></ol>
+

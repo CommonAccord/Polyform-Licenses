@@ -8,11 +8,11 @@ Note=<https://polyformproject.org/licenses/small-business/1.0.0>
 
 2.Ti=Copyright License 
 
-2.sec=The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license). 
+2.sec=The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to {License.Distribute.Xref} and make changes or new works based on the software according to {License.NewWork.Xref}. 
 
 3.Ti=Distribution License 
 
-3.sec=The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license). 
+3.sec=The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by {License.NewWork.Xref}. 
 
 4.Ti=Notices 
 
@@ -48,7 +48,7 @@ Note=<https://polyformproject.org/licenses/small-business/1.0.0>
 
 11.Ti=Violations 
 
-11.sec=The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately. 
+11.sec=The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within {Notice.Cure.Period.days} of receiving notice.  Otherwise, all your licenses end immediately. 
 
 12.Ti=No Liability 
 

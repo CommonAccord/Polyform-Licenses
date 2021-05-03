@@ -38,7 +38,7 @@ law. These terms do not limit them.
 ## Free Trial
 
 Use to evaluate whether the software suits a particular
-application for less than 32 consecutive calendar days, on
+application for less than {FreeTrial.Period.days}, on
 behalf of you or your company, is use for a permitted purpose.
 
 ## No Other Rights
